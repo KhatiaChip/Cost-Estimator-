@@ -7,7 +7,7 @@ HTML & CSS
 
 # Screenshots
 
-<img src=Screenshot 2024-06-28 at 21.07.48.png/>
+<img src="Screenshot 2024-06-28 at 21.07.48.png"/>
 
 
 # Deployment 
